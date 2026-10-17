@@ -1,0 +1,30 @@
+CLIENT PROFILE & BOOKKEEPING RECORD
+====================================
+
+1. BUSINESS DETAILS
+- Trading Name: Laco Café & Bistro
+- Legal Name: [Pending Discovery Call]
+- Company Number: [Pending Discovery Call]
+- Category: Food & Hospitality (Café & Bistro)
+- Premises Address / Location: SK1 (Google Maps: https://maps.app.goo.gl/4329VFDPZ4QszyQu7)
+- Phone Number: [Pending Discovery Call]
+- Public Email: lacocafeenquiries.lacocafe@gmail.com
+- Current Website: https://www.lacocafe.co.uk/
+
+2. DOMAIN & ACCESS CONTROL
+- Domain Name: [Pending - to be registered in client's name]
+- Registrar: Cloudflare Registrar (JSA as technical contact)
+- Hosting Lane: Lane A (Cloudflare Pages) / Lane B (20i Reseller if WordPress/PHP needed)
+- Google Business Profile: [Pending setup / verification]
+
+3. COMMERCIAL & BOOKKEEPING LEDGER
+- Tier Sold: [Pending - e.g., Tier 2: Growth (£1,195 build + £69/mo care plan)]
+- Deposit Status: [Pending - 50% on order]
+- Final Balance Status: [Pending - 50% on written sign-off before launch]
+- Care Plan Status: [Pending activation]
+- Decision Maker / Final Sign-off: [Pending discovery call]
+
+4. KEY DATES
+- Discovery Call Date: [Pending]
+- Build Slot Booked: [Pending from queue]
+- Target Launch Date: [Pending]
